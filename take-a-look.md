@@ -1,6 +1,6 @@
-#LISTS
+# LISTS
 
-##Languages
+## Languages
 PHP
 SQL
 Javascript
@@ -11,12 +11,12 @@ Ruby
 Swift
 GO
 
-##Methodologies
+## Methodologies
 POO
 Solid
 TDD
 
-##Tecnologies
+## Tecnologies
 Symfony
 PHPunit
 MEAN Stack
