@@ -16,6 +16,12 @@
 - Solid
 - TDD
 
+## Good practices
+- codeclimate/php-test-reporter
+- phpmd/phpmd
+- phpunit/phpunit
+- squizlabs/php_codesniffer
+
 ## Tecnologies
 - Symfony
 - PHPunit
