@@ -40,7 +40,7 @@
 - +PSR15 - HTTP Handlers (https://www.php-fig.org/psr/psr-15/)
 +PSR16 - Common Interface for Caching Libraries (https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-16-simple-cache.md)
 PSR17 - HTTP Factories (https://github.com/php-fig/fig-standards/blob/master/proposed/http-factory/http-factory.md)
-PSR18 - HTTP Client (https://github.com/php-fig/fig-standards/blob/master/proposed/http-client/http-client.md)
+PSR18 - HTTP Client [https://github.com/php-fig/fig-standards/blob/master/proposed/http-client/http-client.md]
 
 ## Tecnologies
 - Symfony
